@@ -1,0 +1,13 @@
+D:\fatetest\bentex\mwende\pet\pets\pets\bin\Debug\pets.exe.config
+D:\fatetest\bentex\mwende\pet\pets\pets\bin\Debug\pets.exe
+D:\fatetest\bentex\mwende\pet\pets\pets\bin\Debug\pets.pdb
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.csproj.AssemblyReference.cache
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.Properties.Resources.resources
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.csproj.GenerateResource.cache
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.csproj.CoreCompileInputs.cache
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.exe
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.pdb
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.Pets.resources
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.Registration.resources
+D:\fatetest\bentex\mwende\pet\pets\pets\bin\Debug\MySql.Data.dll
+D:\fatetest\bentex\mwende\pet\pets\pets\obj\Debug\pets.csproj.Up2Date
